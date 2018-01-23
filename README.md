@@ -5,3 +5,7 @@ Fast and responsive, easy to use and customise. Fine for small to medium sites.
 
 #To Do, add a brand or logo to left on Desktop view, create Wordpress Version for Sage 9/Blade Views.
 
+
+#Update, there is a better version with Brand/Logo/Image added and restyled but using a little javascript at https://github.com/minimallinux/tachyonsburgermenu2
+
+
